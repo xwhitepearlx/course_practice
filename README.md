@@ -1,1 +1,1 @@
-# java_practice
+Course practice
